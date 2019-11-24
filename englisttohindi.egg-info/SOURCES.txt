@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+englisttohindi/englisttohindi.py
+englisttohindi.egg-info/PKG-INFO
+englisttohindi.egg-info/SOURCES.txt
+englisttohindi.egg-info/dependency_links.txt
+englisttohindi.egg-info/requires.txt
+englisttohindi.egg-info/top_level.txt

@@ -1,7 +1,9 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/soumilshah1995)
 
+* Your donation will help us a lot in brining more open source package to you 
 # englisttohindi 
 
 #### what is englisttohindi ?

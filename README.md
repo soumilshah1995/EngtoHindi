@@ -10,8 +10,10 @@
 
 
 #### what is englisttohindi ?
-* It converts your English String into Hindi String 
-* application can be to convert dataset into hindi and train NLP Models
+* It takes as input English word, English Sentence
+* It converts your input to Hindi Language
+* convert() method is used to for translation
+* application can be used to convert dataset into hindi and train NLP Models
 * This Module is based on web scrapping 
 
 
